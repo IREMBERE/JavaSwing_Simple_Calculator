@@ -1,0 +1,15 @@
+# Compiled Java files
+*.class
+
+# VS Code settings
+.vscode/
+
+# IntelliJ IDEA files (if you ever open it there)
+.idea/
+*.iml
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
